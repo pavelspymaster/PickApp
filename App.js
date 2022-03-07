@@ -4,7 +4,7 @@ import { StyleSheet, Text, Image, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>PickUp</Text>
+      <Text>PickUlop</Text>
         <Image
             style={styles.tinyLogo}
             source={require('./bodia.jpg')}
